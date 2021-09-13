@@ -1,7 +1,7 @@
 # Youtube Bulk Favs Remover
 Tampermonkey script that allows to remove all your liked videos from YouTube
 
-Have you ever wondered to remove all your favourite videos but you wasn't able to find a solution?
+Have you ever wondered to remove all your favourite videos but you weren't able to find a solution?
 
 Yt-favs-remover is a script that helps to remove all your favorited videos from your Youtube favs playlist by simply clicking a button. Enjoy!
 
