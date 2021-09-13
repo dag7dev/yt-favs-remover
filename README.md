@@ -1,5 +1,5 @@
 # Youtube Bulk Favs Remover
-Tampermonkey script that allows to remove all your liked videos from YouTube
+ViolentMonkey script that allows to remove all your liked videos from YouTube
 
 Have you ever wondered to remove all your favourite videos but you weren't able to find a solution?
 
